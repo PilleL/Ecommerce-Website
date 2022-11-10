@@ -1,7 +1,7 @@
 <img src="https://github.com/PilleL/Ecommerce-Website/blob/main/images/img-frontpage1.jpg" ></img>
 
 ## React e-Commerce App
-MERN Stack e-Commerce app using React, Node.js, MongoDB, Stripe Payment Implementation.
+MERN Stack e-Commerce app using React, Node.js, MongoDB, Postman, Stripe Payment Implementation.
 All design and images are made in Adobe Illustrator.
 
 ## Description
